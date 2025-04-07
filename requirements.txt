@@ -1,6 +1,7 @@
 streamlit
 flask
 pandas
+beautifulsoup4
 scikit-learn
 sentence-transformers
 fastapi
