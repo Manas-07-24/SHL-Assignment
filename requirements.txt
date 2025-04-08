@@ -9,3 +9,4 @@ uvicorn
 matplotlib
 numpy
 nltk
+requests
